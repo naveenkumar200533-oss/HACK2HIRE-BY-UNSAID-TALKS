@@ -1,5 +1,7 @@
 HACK2HIRE-BY-UNSAID-TALKS
 
+
+
 What is the Problem?
 
 Many students fail real interviews not because they lack knowledge, but because they do not get realistic interview practice. Traditional mock interviews are manual, inconsistent, and do not provide clear scores, time-based evaluation, or structured feedback. As a result, students do not know how ready they are for real interviews.
